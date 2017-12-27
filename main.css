@@ -1,0 +1,22 @@
+body{
+    position: relative; 
+}
+.navbar{
+    padding: 0px; 
+    margin: 0px; 
+}
+.jumbotron{
+    background: url(./images/palms.jpeg) no-repeat center center; 
+    background-size: 100%; 
+    color: white; 
+}
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
