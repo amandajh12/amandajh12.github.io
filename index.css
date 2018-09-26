@@ -73,3 +73,21 @@ body{
   position: relative;
   float: right;
 }
+
+#resume{
+  position: fixed;
+  top: 85%;
+  left: 10%;
+}
+
+#resume a:link{
+  color: #42f4bf;
+}
+
+#art1
+{
+  position: fixed;
+  height: 40%;
+  width: 70%;
+  top: 100%;
+}
